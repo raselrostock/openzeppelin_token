@@ -21,5 +21,8 @@
   "license": "ISC",
   "devDependencies": {
     "openzeppelin-solidity": "^1.12.0"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.1.8"
   }
 }
